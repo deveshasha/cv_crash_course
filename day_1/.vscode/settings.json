@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "C:\\Users\\Devesh\\Anaconda3\\python.exe",
+    "python.linting.pylintArgs": ["--version"]
+}
